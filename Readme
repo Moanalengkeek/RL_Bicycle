@@ -1,1 +1,4 @@
+This is the code used for the AE4350 assignment.
 
+There are two RL agents for riding a bicycle. To run the first, a SARSA(lamda) algorithm, you run AI_loop. The functions used for this agent are stored in dynamics.
+To run the second, the folder bicycle (which contains the gymnasium environment) must first be installed locally. The muldules Gymnasium and Stable Baselines 3 are also used. This PPO algorithm is run in Train_AI_Gymnasium
